@@ -17,10 +17,10 @@ format presented in.</p>
 
 <h3>Descriptions:</h3>
 <h6>The project consists of two parts:</h6>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--<a href="https://github.com/yishuo/MultiAgent_System/tree/master/DFS">DFS</a>: This is a java project 
+<p>--<a href="https://github.com/yishuo/MultiAgent_System/tree/master/DFS">DFS</a>: This is a java project 
 for reading the data from the files .txt and then processing the data to get the DFS tree (the relation of children, pseudo-children, parent, 
 pseudo-parent.).</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--<a href="https://github.com/yishuo/MultiAgent_System/tree/master/projet_jacamo_FAPP">Jacamo</a>: This is 
+<p>--<a href="https://github.com/yishuo/MultiAgent_System/tree/master/projet_jacamo_FAPP">Jacamo</a>: This is 
 a jacamo project for getting the Ooptimal frequency allocation scheme via the DFS tree obtained in the java project.</p>
 <br/>
 
