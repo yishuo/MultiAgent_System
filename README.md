@@ -22,6 +22,8 @@ for reading the data from the files .txt and then processing the data to get the
 pseudo-parent.).</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--<a href="https://github.com/yishuo/MultiAgent_System/tree/master/projet_jacamo_FAPP">Jacamo</a>: This is 
 a jacamo project for getting the Ooptimal frequency allocation scheme via the DFS tree obtained in the java project.</p>
+<br/>
+
 <h6>Other documents:</h6>
 <p>This is the descriptions of the project: <a href="https://github.com/yishuo/MultiAgent_System/blob/master/MAS-project-2015.pdf">Project Descriptions</a>.</p>
 <p>This is the user's manual: <a href="https://github.com/yishuo/MultiAgent_System/blob/master/User%E2%80%98s%20manual.pdf">User's manual</a>.</p>
